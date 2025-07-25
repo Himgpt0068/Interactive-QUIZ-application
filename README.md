@@ -27,7 +27,7 @@ Others: Bootstrap/Tailwind, localStorage/sessionStorage (for score persistence)
 
 
  ##📷 Screenshots
-<img width="1366" height="768" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/22b90c50-09b1-4d5f-b049-2e3474654027" />
+<img width="1366" height="628" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/59700e5d-24f5-4d57-bd53-79da599684ca" />
 
 
 
@@ -35,6 +35,7 @@ Others: Bootstrap/Tailwind, localStorage/sessionStorage (for score persistence)
 
 # Clone the repository
 git clone https://github.com/Himgpt0068/Interactive-QUIZ-application/tree/main
+
 
 # Navigate into the folder
 cd interactive-quiz-app
